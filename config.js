@@ -1,3 +1,3 @@
-exports.TOKEN = "Bot token"
-exports.GOOGLE_API_KEY = "YouTube API key"
-exports.PREFIX = "."
+exports.TOKEN = "NjkyMzE3OTU1OTc5MDgzODY3.Xn2VUQ.CuHvMZyWA1Fqe2fSFKJx8o3c0RI"
+exports.GOOGLE_API_KEY = "AIzaSyA99ljeAh9azU4eIjRsYQxJZBXMx07xVBI"
+exports.PREFIX = "v."
